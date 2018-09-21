@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "gcptr.h": "c",
+    "gcobj.h": "c",
+    "gctypes.h": "c",
+    "gcstr.h": "c",
+    "stdlib.h": "c",
+    "stdio.h": "c",
+    "string.h": "c",
+    "iostream": "cpp",
+    "ios": "cpp",
+    "system_error": "cpp",
+    "vector": "cpp",
+    "xiosbase": "cpp",
+    "xstring": "cpp",
+    "iosfwd": "c",
+    "xutility": "c"
+  }
+}
